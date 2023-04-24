@@ -53,8 +53,9 @@
 
 .displayweather .weather-description {
   position: absolute;
-  left: 10px;
+  left: 0px;
   font-size: 1.4rem;
+  margin: 15px;
 }
 .displayweather .weatherdetails {
   margin-left: 50px;
